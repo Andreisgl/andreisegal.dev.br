@@ -1,0 +1,35 @@
+html, body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.header
+{
+    background-color:  grey;
+    position: relative;
+}
+
+.logo
+{
+    width: 40px;
+}
+.nav
+{
+    position: absolute;
+    
+}
+.nav ul
+{
+    list-style: none;
+}
+.nav li
+{
+    display: inline;
+}
+
+
+body
+{
+    background-color: white;
+}
