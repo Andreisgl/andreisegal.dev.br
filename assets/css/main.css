@@ -6,12 +6,7 @@ html, body
 
 .header
 {
-    background-color:  grey;
-}
-
-.logo
-{
-    width: 40px;
+    background-color:  rgb(99, 128, 200);
 }
 .nav
 {
@@ -32,11 +27,17 @@ html, body
 {
     color: white;
     text-decoration: none;
-    font: 40px 'Courier New';
+    font: 200% 'Courier New';
+}
+
+.title
+{
+    text-align: center;
+    font: 200% 'Courier New';
 }
 
 
 body
 {
-    background-color: green;
+    background-color: lightgray;
 }
