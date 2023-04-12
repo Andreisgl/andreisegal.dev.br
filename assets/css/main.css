@@ -7,7 +7,6 @@ html, body
 .header
 {
     background-color:  grey;
-    position: relative;
 }
 
 .logo
@@ -16,20 +15,28 @@ html, body
 }
 .nav
 {
-    position: absolute;
-    
+    color: red
 }
 .nav ul
 {
     list-style: none;
+    margin-top: 0;
+    
 }
 .nav li
 {
     display: inline;
+    margin-inline: 20px;
+}
+.nav li a /*Cor dos links da nav*/
+{
+    color: white;
+    text-decoration: none;
+    font: 40px 'Courier New';
 }
 
 
 body
 {
-    background-color: white;
+    background-color: green;
 }
