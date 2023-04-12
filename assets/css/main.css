@@ -35,6 +35,16 @@ html, body
     text-align: center;
     font: 200% 'Courier New';
 }
+.social li
+{
+    display: inline;
+    margin-inline: 0px;
+    
+}
+.social li img
+{
+    width: 40px;
+}
 
 
 body
